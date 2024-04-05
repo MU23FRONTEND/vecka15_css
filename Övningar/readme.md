@@ -4,7 +4,7 @@
 * Ni hittar massor utav enklare övningar hos [W3 Schools]()
 * För er som vill ha lite mer struktur så hittar ni [steg-för-steg-övningar här](https://jmm.nu/ovningar-html-och-css/)
 * ZoComs egna Flexbox Bootcamp [hittar ni här](https://gist.github.com/zocom-christoffer-wallenberg/ee40fe8e9df9acbe5a4ecb59a5586cd6)
-* En övningskatalog med fler Layout-övningar [hittar ni här](./css-exercises-layout/)
+* En övningskatalog med fler Layout-övningar [hittar ni här](https://github.com/MU23FRONTEND/vecka15_css/tree/main/%C3%96vningar/css-layout-exercises)
 
 
 ## Övningskompendium
