@@ -24,7 +24,8 @@ Hallå där! Nu är vi framme i vecka 2 av kursen, och nu när vi lärt oss vad 
 
 ### Liveinspelningar
 
-* Ingen liveföreläsning har ännu laddats upp...
+* [Tisdag förmiddag](https://vimeo.com/932497020/530d903c1e?share=copy)
+* [Tisdag eftermiddag](https://vimeo.com/932497168/2ea7879f88?share=copy)
 
 ### YouTube
 
