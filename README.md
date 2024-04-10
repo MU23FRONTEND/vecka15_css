@@ -20,6 +20,7 @@ Hallå där! Nu är vi framme i vecka 2 av kursen, och nu när vi lärt oss vad 
 * [CSS-Grid - Koncept](https://vimeo.com/748667234/c973325794?share=copy)
 * [CSS-Grid - Kodexempel](https://vimeo.com/748667367/99c110ba25?share=copy)
 * [CSS-Grid - Mindset](https://vimeo.com/748667711/707ce3a9eb?share=copy)
+* [SASS (i React)](https://vimeo.com/800546193/bc60c8d9a7?share=copy)
 
 
 ### Liveinspelningar
@@ -41,6 +42,7 @@ Hallå där! Nu är vi framme i vecka 2 av kursen, och nu när vi lärt oss vad 
 ## Länkar 
 
 * [W3 Schools CSS](https://www.w3schools.com/css/default.asp) - Här hittar ni ALLT som är värt att kunna, samt enklare övningar
+* [Parcel's SASS-dokumentation](https://parceljs.org/languages/sass/)
  
 ## Övningar
 
