@@ -9,10 +9,11 @@ body {
 }
 
 .checkout-card {
-    width: 350px;
+    width: 400px;
     margin: 2rem auto;
     background-color: white;
     border-radius: 10px;
+    /* overflow: hidden; */
 }
 
 .card-top {
@@ -20,7 +21,9 @@ body {
     background-image: url('./assets/header-image.svg');
     background-position: center bottom;
     background-repeat: no-repeat;
-    height: 35vh;
+    background-size: 85%;
+    width: 100%;
+    aspect-ratio: 3 / 2;
     border-radius: 10px 10px 0 0;
 }
 
@@ -45,15 +48,16 @@ body {
 }
 
 .card-plan {
-    background-color: #F7F7F7;
+    background-color: #e7e6e6;
     display: flex;
     align-items: center;
     justify-content: space-between;
     width: 100%;
     padding: 1rem;
     margin: 1rem 0;
+    border-radius: 10px;
 }
-.card-plan-img {
+/* .card-plan-img {
     background-color: #bbbaba;
     border-radius: 50%;
     width: 2.5rem;
@@ -61,10 +65,24 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
+} */
+
+.card-plan figure {
+    background-color: #adadad;
+    border-radius: 50%;
+    width: 3rem;
+    aspect-ratio: 1;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.card-plan img {
+    transform: translateX(-2px);
 }
 
 .card-plan p {
-    text-align: start;;
+    text-align: start;
 }
 
 .card-plan p:first-child {
@@ -75,6 +93,7 @@ body {
 
 
 .btn {
+    border-radius: 10px;
     text-decoration: none;
     font-size: 1.25rem;
     width: 100%;
@@ -87,4 +106,5 @@ body {
 .btn-pink {
     background-color: #412FFF;
     color: white;
+    margin-bottom: 0.5rem;
 }
