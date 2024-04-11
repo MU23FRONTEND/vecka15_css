@@ -1,0 +1,28 @@
+@import './sass/variables';
+@import './sass/mixins';
+
+body {
+    background-color: black;
+}
+
+.header {
+    background-color: $background;
+
+    &__nav {
+        width: 30%;
+    }
+
+    &__list {
+        @include flex-row;
+        list-style: none;
+    }
+
+    &__list-item {
+        padding: 1rem 2rem;
+        cursor: pointer;
+    }
+
+    &__list-item:hover {
+        background-color: $backgroundHover;
+    }
+}
