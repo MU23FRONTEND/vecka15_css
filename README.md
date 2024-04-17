@@ -27,6 +27,8 @@ Hallå där! Nu är vi framme i vecka 2 av kursen, och nu när vi lärt oss vad 
 
 * [Tisdag förmiddag](https://vimeo.com/932497020/530d903c1e?share=copy)
 * [Tisdag eftermiddag](https://vimeo.com/932497168/2ea7879f88?share=copy)
+* [Torsdag förmiddag](https://vimeo.com/935821663/8ed81ab7a0?share=copy)
+* [Torsdag eftermiddag](https://vimeo.com/935821730/0113e3474a?share=copy)
 
 ### YouTube
 
